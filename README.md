@@ -3,7 +3,7 @@
 ## https://danilomoraes.my.canva.site/
 - 🔭 Atualmente estou trabalhando em minha capacitação e aprimoramento de habilidades na area de programação.
 - 🌱 Atualmente estou aprendendo sobre  
-   JavaScript, CSS e HTMl. Além de estar comçando de zero nessa área incrível de tecnologia.
+   JavaScript, CSS e HTMl. Além de estar começando de zero nessa área incrível de tecnologia.
 - 🤔 Estou procurando ajuda com formas eficazes de evolução e será bom receber ideias e dicas para me tornar melhor e mais experiênte na área.
 ⚡ Curiosidade : Marceneiro buscando novas oportunidades. 
 - 📫 Como entrar em contato comigo:
