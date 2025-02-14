@@ -1,6 +1,6 @@
 # 👋 Olá! Bem vindo ao meu perfil do Github.
 ## My name is Danilo and my nickname is "MoraesDanilo"!
-
+## https://danilomoraes.my.canva.site/
 - 🔭 Atualmente estou trabalhando em minha capacitação e aprimoramento de habilidades na area de programação.
 - 🌱 Atualmente estou aprendendo sobre  
    JavaScript, CSS e HTMl. Além de estar comçando de zero nessa área incrível de tecnologia.
@@ -11,4 +11,5 @@
 <a href="https://www.linkedin.com/in/danilo-moraes-55a1b9198/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 <!--
+
 
