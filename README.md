@@ -22,5 +22,6 @@
 - 📫 Como entrar em contato comigo:
 - <a href="https://www.instagram.com/_danilomoraes_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/danilo-moraes-55a1b9198/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<!--
+<img src="![new](https://github.com/user-attachments/assets/b5eec03c-8f67-4632-9881-e1820c41a882)
+" alt="Foto pessoal"> <!--
 
